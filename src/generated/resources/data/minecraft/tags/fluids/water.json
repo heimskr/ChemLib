@@ -74,6 +74,8 @@
     "chemlib:carbon_disulfide_fluid",
     "chemlib:carbon_disulfide_flowing",
     "chemlib:sulfur_trioxide_fluid",
-    "chemlib:sulfur_trioxide_flowing"
+    "chemlib:sulfur_trioxide_flowing",
+    "chemlib:cyclohexanethiolate_fluid",
+    "chemlib:cyclohexanethiolate_flowing"
   ]
 }

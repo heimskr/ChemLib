@@ -3097,6 +3097,50 @@
           "name": "sulfur"
         }
       ]
+    },
+    {
+      "name": "calcium_fluoride",
+      "matter_state": "solid",
+      "has_item": false,
+      "description": "Forms the mineral fluorite.",
+      "color": "4ad4e0",
+      "components": [
+        {
+          "name": "calcium"
+        },
+        {
+          "name": "fluorine",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "cyclohexanethiolate",
+      "matter_state": "liquid",
+      "fluid_attributes": {
+        "density": 1000,
+        "luminosity": 0,
+        "viscosity": 1000
+      },
+      "has_item": false,
+      "description": "A colorless liquid with a strong odor.",
+      "color": "ebd234",
+      "components": [
+        {"name": "carbon", "count": 6},
+        {"name": "hydrogen", "count": 11},
+        {"name": "sulfur"}
+      ]
+    },
+    {
+      "name": "lycopene",
+      "matter_state": "solid",
+      "has_item": false,
+      "description": "A red carotenoid found in tomatoes.",
+      "color": "993a25",
+      "components": [
+        {"name": "carbon", "count": 40},
+        {"name": "hydrogen", "count": 56}
+      ]
     }
   ]
 }
